@@ -1,7 +1,12 @@
-# <center>XiangHeProject</center>
-整个项目的总括部分
+<div align="center">
 
-> <center>总不停寻觅你的踪影，无论十字路口抑或梦境之中，明知你不在，却依然不停地找寻</center>
+# XiangHeProject
+
+> 总不停寻觅你的踪影，无论十字路口抑或梦境之中，明知你不在，却依然不停地找寻
+
+</div>
+
+
 
 ## 万物之始
 
